@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>&nbsp;
 
-#### E pode aproveitar pra ver alguns conteúdos que eu criei:
+#### E pode aproveitar para ver alguns dos meus conteúdos:
 - <a href="https://www.instagram.com/p/Crepz51guNr/">
    Live carreira em dados: vale a pena em 2023?
   </a>
