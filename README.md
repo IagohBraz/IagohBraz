@@ -11,6 +11,7 @@ Atualmente Analista de Dados Sênior na [Hotmart](https://hotmart.com/pt-br).
   &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width ="50" height = "50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Flearning-machine-ai-icon&psig=AOvVaw1tMOzHhfkJ5EXAkaL4SSjV&ust=1686866334790000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLiki_zgw_8CFQAAAAAdAAAAABAE/>&nbsp;&nbsp;
 </div>
 
 ##
@@ -25,6 +26,7 @@ Atualmente Analista de Dados Sênior na [Hotmart](https://hotmart.com/pt-br).
 &nbsp;<a href = "mailto:contato@iagobraz.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>&nbsp;
+
 
   
   
