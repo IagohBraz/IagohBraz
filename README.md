@@ -17,7 +17,7 @@
 
 ##
 
-### Você também me encontra em:
+### Você me encontra em:
 &nbsp;<a href="https://br.linkedin.com/in/iagobraz">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
@@ -29,7 +29,7 @@
 </a>&nbsp;
 
 
-### ou na comunidade de dados que mais cresce no Brasil:
+### e também na comunidade de dados que mais cresce no Brasil:
 &nbsp;<a href="https://chat.whatsapp.com/HWemZA2D12k98w3ftaf0J6">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>&nbsp;
