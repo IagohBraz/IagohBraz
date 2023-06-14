@@ -2,7 +2,6 @@
 
 💡Resolvendo problemas, gerando insights e impulsionando empresas para o sucesso!💡
 
-
 - 🚀 **Cofounder** [Kalidash](https://kalidash.com/)
 - 👨🏻‍💻 **Professor** de Business Intelligence & Analytics na [Conquer](https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics)
 - 👨🏻‍💼 **Professor** de Ciência de Dados, Analise de dados e Desenvolvimento Python na [Ultima School](https://ultima.school/)
