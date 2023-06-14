@@ -3,7 +3,7 @@ Atualmente Analista de Dados Sênior na [Hotmart](https://hotmart.com/pt-br).
 
 - 👨🏻‍💻 **Professor** de Business Intelligence & Analytics e Ciência de Dados na [Conquer](https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics) e na [Ultima School](https://ultima.school/)
 - 🧗🏼 Apaixonado por esportes
-- 📸 Também falo sobre dados e business no instagram da Central dos Dados
+- 📸 Também falo sobre dados e business no instagram da [Central dos Dados](https://www.instagram.com/centraldosdados/)
 - 🖥️ Atualmente mais focado em:
 
 <div display="inline">
