@@ -24,8 +24,8 @@ Atualmente Analista de Dados Sênior na Hotmart.
 &nbsp;<a href="https://www.instagram.com/_iagobraz_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/@HashtagProgramacao">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+&nbsp;<a href = "mailto:contato@iagobraz.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>&nbsp;
 
 
