@@ -1,5 +1,13 @@
-### Oi, meu nome é Iago
-Analista de dados Sênio na Hotmart
+## Iago Braz aqui :)
+Atualmente Analista de Dados Sênior na Hotmart.
+
+- 👨🏻‍💻 Professor de Business Intelligence & Analytics e Ciência de Dados na {Conquer}(https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics/?utm_source=google&utm_medium=cpc&utm_content=escola_conquer-sitelink-pos_graduacao&utm_campaign=escola_conquer-pos-sitelink&gclid=EAIaIQobChMI_o-rkc3D_wIV5SzUAR1n8wJbEAAYASABEgKy6PD_BwE) e na Ultima School
+- 🧗🏼 Apaixonado por escalada
+- 📸 Também falo sobre dados e business no instagram da Central dos Dados
+- 🖥️ Atualmente mais focado em:
+               
+               
+
 
 <!--
 **IagohBraz/IagohBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
