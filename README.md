@@ -7,11 +7,9 @@ Atualmente Analista de Dados Sênior na Hotmart.
 - 🖥️ Atualmente mais focado em:
 
 <div display="inline">
-  <img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &emsp;
-  <img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  &emsp;
-  <img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
 </div>
 
 
