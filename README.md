@@ -30,7 +30,7 @@
 
 
 ### Ou na maior comunidade de dados que mais cresce no Brasil:
-&nbsp;<a href="chat.whatsapp.com/HWemZA2D12k98w3ftaf0J6">
+&nbsp;<a href="https://chat.whatsapp.com/HWemZA2D12k98w3ftaf0J6">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>&nbsp;
 
