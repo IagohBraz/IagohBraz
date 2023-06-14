@@ -18,14 +18,14 @@ Atualmente Analista de Dados Sênior na Hotmart.
 &nbsp;<a href="https://br.linkedin.com/in/iagobraz">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/_iagobraz_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href = "mailto:contato@iagobraz.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</a>&nbsp;
+&nbsp;<a href="https://llucaslleall.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
 
 
