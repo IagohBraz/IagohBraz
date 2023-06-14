@@ -2,7 +2,7 @@
 Atualmente Analista de Dados Sênior na Hotmart.
 
 - 👨🏻‍💻 **Professor** de Business Intelligence & Analytics e Ciência de Dados na [Conquer](https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics) e na [Ultima School](https://ultima.school/)
-- 🧗🏼 Apaixonado por escalada
+- 🧗🏼 Apaixonado por esportes
 - 📸 Também falo sobre dados e business no instagram da Central dos Dados
 - 🖥️ Atualmente mais focado em:
 
@@ -24,9 +24,12 @@ Atualmente Analista de Dados Sênior na Hotmart.
 &nbsp;<a href = "mailto:contato@iagobraz.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
+
+  
+  
+<!--  &nbsp;<a href="https://llucaslleall.medium.com/">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>&nbsp;-->
 
 
                
