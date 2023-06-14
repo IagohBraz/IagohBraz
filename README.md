@@ -29,13 +29,13 @@
 </a>&nbsp;
 
 
-### Ou na maior comunidade de dados que mais cresce no Brasil:
+### ou na comunidade de dados que mais cresce no Brasil:
 &nbsp;<a href="https://chat.whatsapp.com/HWemZA2D12k98w3ftaf0J6">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>&nbsp;
 
 
-#### E pode aproveitar para ver alguns dos meus conteúdos:
+#### Aproveite para ver alguns dos meus conteúdos:
 - <a href="https://www.instagram.com/p/Crepz51guNr/">
    Live carreira em dados: vale a pena em 2023?
   </a>
