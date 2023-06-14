@@ -28,6 +28,16 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>&nbsp;
 
+#### E pode aproveitar pra ver alguns conteúdos que eu criei:
+- <a href="https://www.instagram.com/p/Crepz51guNr/">
+   Live carreira em dados: vale a pena em 2023?
+  </a>
+- <a href="https://www.instagram.com/p/CpD4kC_pSeL/">
+   4 coisas que toda empresa deveria incluir para criar uma estratégia de dados
+  </a>
+- <a href="https://www.instagram.com/p/CoNu0_AJ-cW/">
+   3 tipos de análise de dados e suas diferenças
+  </a>
 
   
             
@@ -40,6 +50,7 @@
 Links usados: 
 - https://devicon.dev/
 - https://dev.to/envoy_/150-badges-for-github-pnk
--- https://www.youtube.com/watch?v=Ox58iJ11rtA
+- https://www.youtube.com/watch?v=Ox58iJ11rtA
+- https://github.com/Ileriayo/markdown-badges
 
 -->
