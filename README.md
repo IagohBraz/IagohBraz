@@ -5,6 +5,8 @@ Atualmente Analista de Dados Sênior na Hotmart.
 - 🧗🏼 Apaixonado por escalada
 - 📸 Também falo sobre dados e business no instagram da Central dos Dados
 - 🖥️ Atualmente mais focado em:
+<img widht ='50' height = '50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
                
                
 
