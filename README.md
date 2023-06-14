@@ -1,5 +1,5 @@
 ### Oi, meu nome é Iago
-ANalista de dados Sênio na Hotmart
+Analista de dados Sênio na Hotmart
 
 <!--
 **IagohBraz/IagohBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
