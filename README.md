@@ -39,6 +39,7 @@
    3 tipos de análise de dados e suas diferenças
   </a>
 
+## OBS:
   
             
                
@@ -52,5 +53,6 @@ Links usados:
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://www.youtube.com/watch?v=Ox58iJ11rtA
 - https://github.com/Ileriayo/markdown-badges
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 -->
