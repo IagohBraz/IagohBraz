@@ -1,7 +1,7 @@
 ## Iago Braz aqui :)
 Atualmente Analista de Dados Sênior na Hotmart.
 
-- 👨🏻‍💻 Professor de Business Intelligence & Analytics e Ciência de Dados na [Conquer](https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics/?utm_source=google&utm_medium=cpc&utm_content=escola_conquer-sitelink-pos_graduacao) e na [Ultima School](https://ultima.school/)
+- 👨🏻‍💻 **Professor** de Business Intelligence & Analytics e Ciência de Dados na [Conquer](https://escolaconquer.com.br/pos-graduacao/business-intelligence-e-analytics) e na [Ultima School](https://ultima.school/)
 - 🧗🏼 Apaixonado por escalada
 - 📸 Também falo sobre dados e business no instagram da Central dos Dados
 - 🖥️ Atualmente mais focado em:
